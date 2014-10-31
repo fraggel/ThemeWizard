@@ -114,7 +114,7 @@ public class ThemeWizard extends Activity {
         @Override
         public int getCount() {
             // Show 3 total pages.
-            return 16;
+            return 15;
         }
 
         @Override
