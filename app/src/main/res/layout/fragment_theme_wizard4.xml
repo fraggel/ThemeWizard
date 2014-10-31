@@ -15,13 +15,8 @@
         android:id="@+id/imageView"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-        android:background="@drawable/d"/>
+        android:background="@drawable/root2es"/>
 
-    <Button
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/Cerrar"
-        android:id="@+id/button"
-        android:layout_alignBottom="@+id/imageView"
-        android:layout_alignStart="@+id/imageView" />
+
+
 </RelativeLayout>
